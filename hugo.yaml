@@ -34,7 +34,7 @@ menu:
     #   params:
     #     icon: github
     - name: Main Website ↗
-      pageRef: https://spidermath.github.io/
+      url: https://spidermath.github.io/
       weight: 1
 
 params:
