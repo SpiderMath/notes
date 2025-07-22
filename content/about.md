@@ -13,7 +13,7 @@ So, let's begin. I have a keen interest in *mathematics* (obviously), with no sp
 
 - **Dynamical Systems** as its uses throughout the real world seem really interesting
 - **Game theory** as overall it seems like a really practical field of mathematics and also it is really fun to solve game theoretic problems (in my limited probing around)
-- **Combinatorial algorithms** as its been introducing new ways and approaches to solve problems I never thought of and in ways I never considered! 
+- **Social Choice Theory** as trying to determine the fairness of voting systems and cake cutting algorithms is a really fun topic to horse around in
 
 Apart from mathematics though, I'm also really interested in *computer science*, *linguistics* and *biology*, and approaching them from a mathematical perspective, which often leads to finding some really cool and interesting things!  
 \

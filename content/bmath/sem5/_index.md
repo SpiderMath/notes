@@ -1,5 +1,5 @@
 ---
-title: "Semester 5: Spring Semester 2025-26"
+title: "Semester 5: Fall Semester 2025-26"
 cascade:
     type: docs
 ---
