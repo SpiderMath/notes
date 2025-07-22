@@ -4,7 +4,7 @@ cascade:
     type: docs
 ---
 
-This folder consists of all of the notes I've made, and the assignments (along with some other tidbits at times 😉). Feel free to peruse through the material for your own personal interests.
+This folder just contains a bunch of my materials for all of the courses attended by yours truly, with some personal notes and insights scattered around. Feel free to utilise them as required 😉.
 
 ## Explore
 
