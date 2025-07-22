@@ -31,8 +31,8 @@ This folder consists of all of the notes I've made, and the assignments (along w
   {{< card link="sem1/ra1" icon="book-open" title="Real Analysis I" >}}
   {{< card link="sem2/ra2" icon="book-open" title="Real Analysis II" >}}
   {{< card link="sem3/asv" icon="book-open" title="Analysis of Several Variables" >}}
-  {{< card link="sem4/ode" icon="book-open" title="Ordinary Differential Equations" >}}
   {{< card link="sem4/topo" icon="book-open" title="Topology" >}}
+  {{< card link="sem4/ode" icon="book-open" title="Ordinary Differential Equations" >}}
   {{< card link="sem1/ent" icon="book-open" title="Elementary Number Theory" >}}
   {{< card link="sem2/stat1" icon="book-open" title="Intro to Statistics and Computation with Data" >}}
   {{< card link="sem3/stat2" icon="book-open" title="Intro to Statistical Inference" >}}

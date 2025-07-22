@@ -4,9 +4,9 @@ toc: false
 ---
 
 Hey there! Welcome to my page of `Notes & Resources`! This is where I store my notes and materials from various courses, including my current degree.  
-\
-If you're new here, I'm **Shankha Suvra Dam**, a second-year doing *B.Math (hons)* at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/)!  
-\
+
+If you're new here, I'm **Shankha Suvra Dam**, a third-year doing *B.Math (hons)* at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/)!  
+
 You can check out my main website [here](https://spidermath.github.io).
 
 
