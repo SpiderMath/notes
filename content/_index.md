@@ -17,6 +17,6 @@ You can check out my main website [here](https://spidermath.github.io).
   {{< card link="self-study/" title="Self Study" icon="book-open" >}}
 {{< /cards >}}
 
-{{< callout emoji="✨" >}}
+{{< callout emoji="💖" >}}
   This subset of pages has been created with the help of [Hugo](https://gohugo.io) and [Hextra](https://imfing.github.io/hextra/)
 {{< /callout >}}
