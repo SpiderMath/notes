@@ -35,8 +35,8 @@ cascade:
 
 | Assignment | Date | Solution |
 | :-: | :-: | :-: |
-| [Assignment 0](/pdf/prob3/assignments/Assignment0.pdf) | 20 July 2025 | *unavailable* |
-| [Assignment 1](/pdf/prob3/assignments/Assignment1.pdf) | 30 July 2025 | *unavailable* |
+| [Assignment 0](/notes/pdf/prob3/assignments/Assignment0.pdf) | 20 July 2025 | *unavailable* |
+| [Assignment 1](/notes/pdf/prob3/assignments/Assignment1.pdf) | 30 July 2025 | *unavailable* |
 
 ### Notes
 
