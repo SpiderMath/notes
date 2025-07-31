@@ -16,19 +16,19 @@ cascade:
 
 | Course | Instructor | Status |
 | :-: | :-: | :-: |
-| Probability III | Yogeshwaran D | Opted |
-| Function Spaces | Sibaprasad Barik | *deciding* |
-| Field and Galois Theory | Maneesh Thakur | *deciding* |
+| Probability III | Yogeshwaran D | **Opted** |
+| Function Spaces | Sibaprasad Barik | **Opted** |
+| Field and Galois Theory | Maneesh Thakur | *Not Opted* |
 
 ### Electives
 
 | Course | Instructor | Status |
 | :-: | :-: | :-: |
-| Economics I | Madhura Swaminathan / Ritam Dutta | *deciding* |
-| Intro to Stochastic Processes | Siva Athreya | Opted |
-| Algebraic Topology | Suresh Nayak | *deciding* |
-| Differential Geometry and Lie Groups | Shreedhar Inamdar | *deciding* |
-| Representation Theory of Finite Groups | Anita Naolekar | *deciding* |
+| Economics I | Madhura Swaminathan / Ritam Dutta | *Not Opted* |
+| Intro to Stochastic Processes | Siva Athreya | **Opted** |
+| Algebraic Topology | Suresh Nayak | **Opted** |
+| Differential Geometry and Lie Groups | Shreedhar Inamdar | **Opted** (Non-Credit) |
+| Representation Theory of Finite Groups | Anita Naolekar | *Not Opted* |
 
 ## Thoughts
 
@@ -40,7 +40,7 @@ Lemme atleast finish the semester ☠️
 | :-: | :-: |
 | Design and Analysis of Algorithms | *tbd* |
 | Probability III | *tbd* |
+| Function Spaces | *tbd* |
 | Intro to Stochastic Processes | *tbd* |
-| *Tentative course* | *tbd* |
-| *Tentative course* | *tbd* |
-| *Tentative course* | *tbd* |
+| Algebraic Topology | *tbd* |
+| Differential Geometry | *tbd* |
