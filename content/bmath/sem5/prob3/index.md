@@ -40,7 +40,26 @@ cascade:
 
 ### Notes
 
-| Week | Topics Covered | [References](#references) | PDF Link |
+| Week | Topics Covered | References | PDF Link |
 | :-: | :-: | :-: | :-: |
-| 21 July 2025 - 25 July 2025 | Overview of the course. <br> Need for measure-theoretic foundations. <br> Introduction to sample and probability spaces. <br> Examples. <br> Dynkin's pi-lambda theorem and Monotone class theorem (without proofs). <br> Approximation and uniqueness of measures. | Ch 1 of JW. <br> Ch 1-4 of MK. <br> MTP Notes 1-3 | *to be uploaded* |
-| 28 July 2025 - 1 August 2025 | Applications of uniqueness of measures; <br> Construction of outer measures and Caratheodory's extension theorem (proof outline). <br> Examples. <br> Approximation theorems. | Sec 5-7 of MK. <br> MTP Notes 4-6 | *to be uploaded* |
+| 21 July 2025 - 25 July 2025 | <ul> <li> Overview of the course. </li> <li> Need for measure-theoretic foundations. </li> <li> Introduction to sample and probability spaces. </li> <li> Examples. </li> <li> Dynkin's pi-lambda theorem and Monotone class theorem (without proofs). </li> <li> Approximation and uniqueness of measures. </ul> | <ul> <li> Ch 1 of JW. </li> <li> Ch 1-4 of MK. </li> <li> MTP Notes 1-3 | *to be uploaded* |
+| 28 July 2025 - 1 August 2025 | <ul> <li> Applications of uniqueness of measures; </li> <li> Construction of outer measures and Caratheodory's extension theorem (proof outline). </li> <li> Examples. </li> <li> Approximation theorems. </li> </ul> | <ul> <li> Sec 5-7 of MK. </li> <li> MTP Notes 4-6 </ul> | *to be uploaded* |
+
+### Previous Year Questions
+
+| Paper & Academic Session | Instructor | Link to PDF | Solution |
+| :-: | :-: | :-: | :-: |
+| Mid-Semestral, 2024-25 | *unavailable* | [here](/notes/pdf/prob3/pyq_midsem202425.pdf) | *unavailable* |
+| End-Semestral, 2024-25 | *unavailable* | [here](/notes/pdf/prob3/pyq_endsem202425.pdf) | *unavailable* |
+| Back Paper, 2024-25 | *unavailable* | [here](/notes/pdf/prob3/pyq_backpaper202425.pdf) | *unavailable* |
+| Midterm Supplementary Paper, 2024-25 | *unavailable* | [here](/notes/pdf/prob3/pyq_supplementary202425.pdf) | *unavailable* |
+| Mid-Semestral, 2023-24 | *unavailable* | [here](/notes/pdf/prob3/pyq_midsem202324.pdf) | *unavailable* |
+| End-Semestral, 2023-24 | *unavailable* | [here](/notes/pdf/prob3/pyq_endsem202324.pdf) | *unavailable* |
+
+### My Papers
+
+| Paper | Link to PDF | Solution |
+| :-: | :-: | :-: |
+| Mid-Semestral, 2025-26 | *tbd* | *tbd* |
+| End-Semestral, 2025-26 | *tbd* | *tbd* |
+| Back Paper, 2025-26 | *tbd* | *tbd* |
