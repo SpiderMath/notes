@@ -8,11 +8,11 @@ cascade:
 
 | Course | Instructor |
 | :-: | :-: |
-| Elementary Number Theory | Ramdin Mawia |
-| Linear Algebra I | Shreedhar Inamdar |
-| Probability I | Parthanil Roy |
-| Real Analysis I | C.R.E. Raja |
-| Fundamentals of Computing and Programming | Badrinath Ramamurthy |
+| Elementary Number Theory | Prof. Ramdin Mawia |
+| Linear Algebra I | Prof. Shreedhar Inamdar |
+| Probability I | Prof. Parthanil Roy |
+| Real Analysis I | Prof. C.R.E. Raja |
+| Fundamentals of Computing and Programming | Prof. Badrinath Ramamurthy |
 
 ## Thoughts
 

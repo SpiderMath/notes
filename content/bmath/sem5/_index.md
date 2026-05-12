@@ -10,25 +10,25 @@ cascade:
 
 | Course | Instructor |
 | :-: | :-: |
-| Design and Analysis of Algorithms | Jaya Sreevalsan Nair |
+| Design and Analysis of Algorithms | Prof. Jaya Sreevalsan Nair |
 
 ### Semi-Compulsory
 
 | Course | Instructor | Status |
 | :-: | :-: | :-: |
-| Probability III | Yogeshwaran D | **Opted** |
-| Function Spaces | Sibaprasad Barik | **Opted** |
-| Field and Galois Theory | Maneesh Thakur | *Not Opted* |
+| Probability III | Prof. Yogeshwaran D | **Opted** |
+| Function Spaces | Dr. Sibaprasad Barik | **Opted** |
+| Field and Galois Theory | Prof. Maneesh Thakur | *Not Opted* |
 
 ### Electives
 
 | Course | Instructor | Status |
 | :-: | :-: | :-: |
-| Economics I | Madhura Swaminathan / Ritam Dutta | *Not Opted* |
-| Intro to Stochastic Processes | Siva Athreya | **Opted** |
-| Algebraic Topology | Suresh Nayak | **Opted** |
-| Differential Geometry and Lie Groups | Shreedhar Inamdar | **Opted** (Non-Credit) |
-| Representation Theory of Finite Groups | Anita Naolekar | *Not Opted* |
+| Economics I | Prof. Madhura Swaminathan / Dr. Ritam Dutta | *Not Opted* |
+| Intro to Stochastic Processes | Prof. Siva Athreya | **Opted** |
+| Algebraic Topology | Prof. Suresh Nayak | **Opted** |
+| Differential Geometry and Lie Groups | Prof. Shreedhar Inamdar | **Opted (later dropped)** |
+| Representation Theory of Finite Groups | Prof. Anita Naolekar | *Not Opted* |
 
 ## Thoughts
 
@@ -38,9 +38,8 @@ Lemme atleast finish the semester ☠️
 
 | Course | Score |
 | :-: | :-: |
-| Design and Analysis of Algorithms | *tbd* |
-| Probability III | *tbd* |
-| Function Spaces | *tbd* |
-| Intro to Stochastic Processes | *tbd* |
-| Algebraic Topology | *tbd* |
-| Differential Geometry | *tbd* |
+| Design and Analysis of Algorithms | 91 |
+| Probability III | 57 |
+| Function Spaces | 66 |
+| Intro to Stochastic Processes | 76 |
+| Algebraic Topology | 58 |

@@ -4,7 +4,8 @@ type: about
 ---
 
 ![Hello there!](/images/hello_there.gif)  
-\
+
+
 I am *Shankha Suvra Dam*, a third-year doing B.Math (hons) at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/).  
 
 I have a variety of interests 👀, however since you're here looking at my notes pages, I'm going to assume you're gonna be more interested in my academic interests 😁.  
