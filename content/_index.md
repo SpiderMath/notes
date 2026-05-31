@@ -13,7 +13,7 @@ You can check out my main website [here](https://spidermath.github.io/).
 ## Explore
 
 {{< cards >}}
-  {{< card link="udgrp/" title="Automata Theory" icon="variable" >}}
+  {{< card link="udgrp/automata_theory" title="Automata Theory" icon="variable" >}}
   <!-- {{< card link="bmath/" title="B. Math. (hons) [⚠️UNDER CONSTRUCTION!]" icon="academic-cap" >}} -->
   {{< card link="bmath/" title="B. Math. (hons) [Incomplete]" icon="exclamation" >}}
   <!-- {{< card link="pyqs/" title="Solved PYQs [Yet To Start]" icon="book-open" >}} -->
