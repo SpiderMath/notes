@@ -13,8 +13,9 @@ You can check out my main website [here](https://spidermath.github.io/).
 ## Explore
 
 {{< cards >}}
-  {{< card link="bmath/" title="B. Math. (hons)" icon="academic-cap" >}}
-  {{< card link="pyqs/" title="Solved PYQs" icon="book-open" >}}
+  {{< card link="udgrp/" title="Automata Theory" icon="" >}}
+  {{< card link="bmath/" title="B. Math. (hons) [⚠️UNDER CONSTRUCTION!]" icon="academic-cap" >}}
+  {{< card link="pyqs/" title="Solved PYQs [⚠️UNDER CONSTRUCTION!]" icon="book-open" >}}
 {{< /cards >}}
 
 {{< callout emoji="💖" >}}
