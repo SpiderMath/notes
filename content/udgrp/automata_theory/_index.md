@@ -46,7 +46,7 @@ Imagine a strange lock with only two buttons: *A* and *B*.
 
 The lock has a jewel that can glow in different colors. Initially, it glows *Red*. Every time you press a button, the color changes according to some fixed rules. For example, a rule could be:
 
-“If the jewel is Red and you press B, it turns Blue.”
+“If the jewel is Red and you press B, it turns Green.”
 
 The important part is that the lock has no memory other than its current color. It does not remember the whole sequence you typed, only the current state it is in.
 
@@ -54,9 +54,7 @@ Now suppose the jewel can glow in only *3 colors*.
 
 1. Can you design rules so that the jewel glows Green exactly when the number of A’s pressed is a multiple of 3?
 2. Can you design rules so that the jewel glows Green exactly when the sequence never contains two consecutive A’s?
-3. Now for the harder question: can you design such a system so that the jewel glows Green exactly when the number of A’s pressed is equal to the number of B’s pressed?
-
-And if 3 colors are not enough, what if the jewel could glow in *1000 different colors*? Would that help?
+3. Now for the harder question: can you design such a system so that the jewel glows Green exactly when the number of A’s pressed is equal to the number of B’s pressed? And if 3 colors are not enough, what if the jewel could glow in *1000 different colors*? Would that help?
 
 If yes, explain how. If not, try to explain what feels fundamentally different about this condition.
 
