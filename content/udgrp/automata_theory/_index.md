@@ -65,3 +65,7 @@ If yes, explain how. If not, try to explain what feels fundamentally different a
 | Friday, 22<sup>nd</sup> May 2026 | • Daibik Barik<br>• Shankha Suvra Dam | • Introduction<br>• Solution to the Jewel Puzzle<br>• What is a finite automaton?<br>• Definition of Regular Languages, DFA and Regular Operations<br>• Closure of Regular Operations | • [Daibik's Notes](/notes/pdf/udgrp/automata_theory/Daibik_lecture1.pdf)<br>• [Shankha's Notes](/notes/pdf/udgrp/automata_theory/Shankha_lecture1.pdf) | [Problem Set 1](/notes/pdf/udgrp/automata_theory/Problem_Set_1.pdf) |
 | Tuesday, 26<sup>th</sup> May 2026 | Daibik Barik |  | [Notes](/notes/pdf/udgrp/automata_theory/lecture2.pdf) | __ |
 | Saturday, 30<sup>th</sup> May 2026 | Shankha Suvra Dam | • Rigorously defining NFA<br>• Every DFA has an equivalent NFA and vice-versa <br>• Pumping Lemma for Regular Languages | To Be Uploaded | To be Uploaded |
+| Tuesday, 2<sup>nd</sup> June 2026 | __ | Problem Set 2, combining questions on topics from both lectures | __ | [Problem Set 2](/notes/pdf/udgrp/automata_theory/Problem_Set_2.pdf) |
+| Thursday, 4<sup>th</sup> June 2026 | Daibik Barik | I'm too lazy mannnn | [Notes](/notes/pdf/udgrp/automata_theory/lecture4.pdf) | __ |
+| Monday or Tuesday, 8 or 9 June 2026 | Shankha Suvra Dam | __ | __ | __ |
+| Tuesday, 9 June 2026 | __ | Problem Set 3, combining questions on topics from both lectures | __ | [*wait for it*] |
